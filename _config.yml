@@ -1,6 +1,9 @@
+title: windows inventory
 email: ml-flyvemdm@teclib.com
-baseurl: "/flyve-mdm-android-inventory" 
-url: "http://flyve.org"
+twitter: flyvemdm
+baseurl: "/flyve-mdm-windows-inventory"
+url: "http://flyve.org"   
+image: http://flyve.org/flyve-mdm-windows-inventory/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -10,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/flyve-mdm-android-inventory
+repository: flyve-mdm/flyve-mdm-windows-inventory
 
 sass:
     style: compressed
