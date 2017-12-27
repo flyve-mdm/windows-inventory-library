@@ -1,9 +1,9 @@
 title: windows library inventory
 email: ml-flyvemdm@teclib.com
 twitter: flyvemdm
-baseurl: "/windows-library-inventory"
+baseurl: "/windows-inventory-library"
 url: "http://flyve.org"   
-image: http://flyve.org/windows-library-inventory/images/logo2.png
+image: http://flyve.org/windows-inventory-library/images/logo2.png
 
 # Build settings
 markdown: kramdown
@@ -13,7 +13,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-repository: flyve-mdm/windows-library-inventory
+repository: flyve-mdm/windows-inventory-library
 
 sass:
     style: compressed
